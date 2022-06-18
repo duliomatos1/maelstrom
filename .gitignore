@@ -3,4 +3,11 @@
 **/Makefile
 config.log
 config.status
-
+**/*.o
+**/*.a
+Maelstrom
+Maelstrom-netd
+maclib/macres
+maclib/playwave
+maclib/snd2wav
+**/*~
